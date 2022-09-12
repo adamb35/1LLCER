@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1LLCER 2022/2023</title>
+    <link>https://adamb35.github.io/1LLCER/</link>
+    <description>Recent content on 1LLCER 2022/2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Sep 2022 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://adamb35.github.io/1LLCER/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gothic literature 1</title>
+      <link>https://adamb35.github.io/1LLCER/posts/blog-post-name-in-url/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://adamb35.github.io/1LLCER/posts/blog-post-name-in-url/</guid>
+      <description>Here is the first post for you</description>
+    </item>
+    
+    <item>
+      <title>Gothic literature 2</title>
+      <link>https://adamb35.github.io/1LLCER/posts/blog-post-name-in-url-2/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://adamb35.github.io/1LLCER/posts/blog-post-name-in-url-2/</guid>
+      <description>Here is the first post for you</description>
+    </item>
+    
+  </channel>
+</rss>
